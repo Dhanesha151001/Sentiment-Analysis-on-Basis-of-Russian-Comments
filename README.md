@@ -20,7 +20,7 @@ Brand: The brand associated with the review.
 
 **Methodology**
 
-##Data Cleaning:
+*Data Cleaning*:
 
 Performed in **Microsoft Excel**.
 
@@ -28,17 +28,17 @@ Removed duplicates and handled missing values.
 
 Standardized text formatting.
 
-##Translation:
+*Translation*:
 
 Conducted in Google Sheets using the **GOOGLETRANSLATE** function.
 
-##Sentiment Analysis in Power BI:
+*Sentiment Analysis in Power BI*:
 
 Implemented sentiment scoring within **Power BI** using integrated text analytics.
 
 Created visualizations to represent sentiment distribution across brands and ratings.
 
-#Evaluation and Insights:
+*Evaluation and Insights*:
 
 Analyzed sentiment trends using Power BI dashboards.
 
@@ -56,7 +56,7 @@ Common positive and negative keywords used in reviews.
 
 <br>
 
-#How to Run the Project
+**How to Run the Project**
 
 Prerequisites
 
@@ -83,11 +83,13 @@ Perform sentiment analysis using Power BI’s text analytics capabilities.
 Generate reports and visualizations within Power BI.
 
 
-Contributors
+<br>
 
-[Pratham Dhanesha]
+**Contributors**
 
-[dhanesha151001@gmail.com]
+*Pratham Dhanesha*
+
+dhanesha151001@gmail.com <br>
 Portfolio [https://dhanesha151001.github.io/portfolio/]
 
 License
