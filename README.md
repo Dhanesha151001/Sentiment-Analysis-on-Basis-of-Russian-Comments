@@ -21,6 +21,7 @@ Brand: The brand associated with the review.
 
 <br>
 <br>
+
 **Methodology**
 
 *Data Cleaning*:
