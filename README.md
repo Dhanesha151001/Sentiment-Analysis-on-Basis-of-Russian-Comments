@@ -2,49 +2,49 @@
 
 This project performs sentiment analysis on customer comments and ratings for various brands and items. The dataset consists of 14,282 comments and covers 192 brands. The goal is to derive insights about customer sentiment and brand perception based on textual reviews and numerical ratings.
 
-Dataset
+**Dataset**
 
-Total Comments: 14,282
+#Total Comments: 14,282
 
-Total Brands: 192
+#Total Brands: 192
 
-Data Sources: Customer reviews from different platforms (if applicable, mention sources).
+Data Sources: Customer reviews from the given dataset. [Consumer Sentiments and Ratings](https://www.kaggle.com/datasets/kapturovalexander/consumer-sentiments-and-ratings) 
 
-Data Format:
+**Data Format:**
 
-comment: Textual feedback from customers.
+Comment: Textual feedback from customers.
 
-rating: Numerical rating given by the customer.
+Rating: Numerical rating given by the customer.
 
-brand: The brand associated with the review.
+Brand: The brand associated with the review.
 
-Methodology
+**Methodology**
 
-Data Cleaning:
+##Data Cleaning:
 
-Performed in Microsoft Excel.
+Performed in **Microsoft Excel**.
 
 Removed duplicates and handled missing values.
 
 Standardized text formatting.
 
-Translation:
+##Translation:
 
-Conducted in Google Sheets using the GOOGLETRANSLATE function.
+Conducted in Google Sheets using the **GOOGLETRANSLATE** function.
 
-Sentiment Analysis in Power BI:
+##Sentiment Analysis in Power BI:
 
-Implemented sentiment scoring within Power BI using integrated text analytics.
+Implemented sentiment scoring within **Power BI** using integrated text analytics.
 
 Created visualizations to represent sentiment distribution across brands and ratings.
 
-Evaluation and Insights:
+#Evaluation and Insights:
 
 Analyzed sentiment trends using Power BI dashboards.
 
 Identified key themes and patterns in customer feedback.
 
-Results and Insights
+**Results and Insights**
 
 Sentiment distribution across brands.
 
@@ -54,7 +54,9 @@ Top brands with the highest and lowest sentiment scores.
 
 Common positive and negative keywords used in reviews.
 
-How to Run the Project
+<br>
+
+#How to Run the Project
 
 Prerequisites
 
@@ -80,22 +82,14 @@ Perform sentiment analysis using Power BI’s text analytics capabilities.
 
 Generate reports and visualizations within Power BI.
 
-Future Improvements
-
-Enhance sentiment analysis using external Python-based NLP tools.
-
-Implement a hybrid model combining Power BI insights with machine learning models.
-
-Use topic modeling (LDA) to identify key themes in comments.
-
-Integrate real-time sentiment tracking for brands.
 
 Contributors
 
-[Your Name]
+[Pratham Dhanesha]
 
-[Your Contact Information]
+[dhanesha151001@gmail.com]
+Portfolio [https://dhanesha151001.github.io/portfolio/]
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU License.
