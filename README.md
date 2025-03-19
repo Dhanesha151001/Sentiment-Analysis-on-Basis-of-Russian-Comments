@@ -18,6 +18,9 @@ Rating: Numerical rating given by the customer.
 
 Brand: The brand associated with the review.
 
+
+<br>
+<br>
 **Methodology**
 
 *Data Cleaning*:
@@ -44,6 +47,8 @@ Analyzed sentiment trends using Power BI dashboards.
 
 Identified key themes and patterns in customer feedback.
 
+<br> 
+
 **Results and Insights**
 
 Sentiment distribution across brands.
@@ -58,7 +63,7 @@ Common positive and negative keywords used in reviews.
 
 **How to Run the Project**
 
-Prerequisites
+*Prerequisites*
 
 Ensure you have access to:
 
@@ -92,6 +97,6 @@ Generate reports and visualizations within Power BI.
 dhanesha151001@gmail.com <br>
 Portfolio [https://dhanesha151001.github.io/portfolio/]
 
-License
 
+*License*
 This project is licensed under the GNU License.
