@@ -96,8 +96,8 @@ Generate reports and visualizations within Power BI.
 *Pratham Dhanesha*
 
 dhanesha151001@gmail.com <br>
-Portfolio [https://dhanesha151001.github.io/portfolio/]
+[Portfolio](https://dhanesha151001.github.io/portfolio/)
 
 
 *License*
-This project is licensed under the GNU License.
+This project is licensed under the GNU General Public License v3.0.
