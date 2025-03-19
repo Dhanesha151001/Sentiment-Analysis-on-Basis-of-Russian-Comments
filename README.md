@@ -22,6 +22,9 @@ Brand: The brand associated with the review.
 <br>
 <br>
 
+**Output**
+<img src="E:\Sentiment Analysis on Basis of Comments.png" width="100px" height="80px">
+
 **Methodology**
 
 *Data Cleaning*:
