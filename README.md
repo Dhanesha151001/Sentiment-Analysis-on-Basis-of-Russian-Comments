@@ -1,2 +1,101 @@
-# Sentiment-Analysis-on-Basis-of-Russian-Comments
-Sentiment analysis of products based on customer reviews, comments in Russian language, and ratings.
+# Overview
+
+This project performs sentiment analysis on customer comments and ratings for various brands and items. The dataset consists of 14,282 comments and covers 192 brands. The goal is to derive insights about customer sentiment and brand perception based on textual reviews and numerical ratings.
+
+Dataset
+
+Total Comments: 14,282
+
+Total Brands: 192
+
+Data Sources: Customer reviews from different platforms (if applicable, mention sources).
+
+Data Format:
+
+comment: Textual feedback from customers.
+
+rating: Numerical rating given by the customer.
+
+brand: The brand associated with the review.
+
+Methodology
+
+Data Cleaning:
+
+Performed in Microsoft Excel.
+
+Removed duplicates and handled missing values.
+
+Standardized text formatting.
+
+Translation:
+
+Conducted in Google Sheets using the GOOGLETRANSLATE function.
+
+Sentiment Analysis in Power BI:
+
+Implemented sentiment scoring within Power BI using integrated text analytics.
+
+Created visualizations to represent sentiment distribution across brands and ratings.
+
+Evaluation and Insights:
+
+Analyzed sentiment trends using Power BI dashboards.
+
+Identified key themes and patterns in customer feedback.
+
+Results and Insights
+
+Sentiment distribution across brands.
+
+Correlation between ratings and sentiment scores.
+
+Top brands with the highest and lowest sentiment scores.
+
+Common positive and negative keywords used in reviews.
+
+How to Run the Project
+
+Prerequisites
+
+Ensure you have access to:
+
+Microsoft Excel (for data cleaning)
+
+Google Sheets (for translation)
+
+Power BI (for analysis and visualization)
+
+Running the Analysis
+
+Open the dataset in Excel and ensure data is cleaned properly.
+
+Translate non-English comments in Google Sheets using:
+
+=GOOGLETRANSLATE(A2, "auto", "en")
+
+Import the cleaned and translated dataset into Power BI.
+
+Perform sentiment analysis using Power BI’s text analytics capabilities.
+
+Generate reports and visualizations within Power BI.
+
+Future Improvements
+
+Enhance sentiment analysis using external Python-based NLP tools.
+
+Implement a hybrid model combining Power BI insights with machine learning models.
+
+Use topic modeling (LDA) to identify key themes in comments.
+
+Integrate real-time sentiment tracking for brands.
+
+Contributors
+
+[Your Name]
+
+[Your Contact Information]
+
+License
+
+This project is licensed under the MIT License.
