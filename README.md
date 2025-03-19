@@ -23,7 +23,7 @@ Brand: The brand associated with the review.
 <br>
 
 **Output**
-<img src="E:\Sentiment Analysis on Basis of Comments.png" width="100px" height="80px">
+<img src="(https://drive.google.com/file/d/1GJa5i93z83Dk1j1jTHyRmIRAjIB5ipft/view?usp=sharing)" width="100px" height="80px">
 
 **Methodology**
 
